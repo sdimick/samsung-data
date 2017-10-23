@@ -85,5 +85,7 @@ tidy.data.2 <- tidy.data %>%
   group_by(subject, group, activity, metric) %>% 
   summarise(avg=mean(value)) %>% 
   spread(metric, avg)
-write.table(tidy.data, file = "tidy_data_2.txt")
-  
+write.table(tidy.data.2, file = "tidy_data_2.txt")
+
+# clean up environment
+rm(list=ls())
