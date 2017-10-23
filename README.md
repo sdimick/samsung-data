@@ -26,7 +26,7 @@ The first tidy data set, [tidy_data_1.txt](tidy_data_1.txt), has a row of every 
 
 * subject: The identifier for the subject (1-30)
 * group: Identifier for if the subject was randomly assigned to UCI's training or test group
-* activity: Identifier for which of the [6 activities](./UCI HAR Dataset/activity_labels.txt) the occurring during the observation
+* activity: Identifier for which of the [6 activities]("UCI HAR Dataset/activity_labels.txt") the occurring during the observation
 * [feature]mean()-[XYZ]: the mean of each feature documented [here](UCI HAR Dataset/features_info.txt) for each of the 3 axes, X, Y and Z.
 * [feature]std()-[XYZ]: the standard deviation of each feature documented [here](UCI HAR Dataset/features_info.txt) for each of the 3 axes, X, Y and Z.
 
