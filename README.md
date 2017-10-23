@@ -30,7 +30,7 @@ The first tidy data set, [tidy_data_1.txt](tidy_data_1.txt), has a row of every 
 * [feature]mean()-[XYZ]: the mean of each feature, documented [here](features_info.txt), for each of the 3 axes, X, Y and Z.
 * [feature]std()-[XYZ]: the standard deviation of each feature, documented [here](features_info.txt), for each of the 3 axes, X, Y and Z.
 
-### Tidy Data Set
+### Tidy Data Set 2
 
 The second tidy data set, [tidy_data_2.txt](tidy_data_2.txt), has a row of every subject, for every activity. Each row contains the following data:
 
